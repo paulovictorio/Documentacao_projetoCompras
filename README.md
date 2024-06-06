@@ -28,10 +28,15 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 03 | 17/06/2024 |  🧰Em Produção  |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
 
 <span id="backlogs">
+    
 ## 👷 Backlogs & User Stories
-    ![requisitos](requisitos.png)
-    ![requisitosnf](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/78160698/f58cba8e-9d0d-41ab-81ef-cb48343612ff)
-    ![user_stories](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/78160698/0e1734e9-4546-45f0-8220-123af781a3e3)
+<div align="center">
+    <img src="requisitos.png">
+   <img src="requisitosnf.png">
+
+   <img src="user_stories.png">
+</div>
+   
 
     
 ## Protótipo e Documentação
