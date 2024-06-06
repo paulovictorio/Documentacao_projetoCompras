@@ -22,7 +22,7 @@ Com base nesta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 
 </span>
 
-:pushpin: Status do Projeto: **Não Concluído** :heavy_check_mark:
+:pushpin: Status do Projeto: **Não Concluído** 
 
 ### 🏁 Entregas de Sprints
 | Sprint | Previsão | Status | Histórico |
