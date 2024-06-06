@@ -1,4 +1,4 @@
-# Documentacao_projetoCompras
+# Projeto de Compras 
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
@@ -11,6 +11,7 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
+A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, O desenvolvimento do site para facilitar o trabalho do funcionário responsável pelo trabalho de compras foi desenvolvido, consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
 
 
 <span id="equipe">
