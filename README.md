@@ -25,7 +25,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 ### 🏁 Entregas de Sprints
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/edit/sprint-01/README.md)|
+| 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório]()|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório]|
 | 03 | 17/06/2024 |  🧰Em Produção  |[ver relatório]|
 
