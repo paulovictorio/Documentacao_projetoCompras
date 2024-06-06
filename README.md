@@ -26,6 +26,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  🧰Em Produção  |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
+→ [Voltar ao topo](#topo)
 
 <span id="backlogs">
     
@@ -36,7 +37,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 
    <img src="user_stories.png">
 </div>
-   
+→ [Voltar ao topo](#topo)
 
     
 ## Protótipo e Documentação
@@ -44,6 +45,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 <span id="prototipo">
     Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
     O acesso ao protótipo pode ser feito <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
+→ [Voltar ao topo](#topo)
 
 ### 📄 Documentação 
 A documentação deste projeto possui mais detalhes do planejamento e da arquitetura do software. Ela pode ser acessada [aqui](documentacao_compras_pi.pdf)
@@ -56,7 +58,7 @@ A documentação deste projeto possui mais detalhes do planejamento e da arquite
   </a>
 </p>
 </span>
-
+→ [Voltar ao topo](#topo)
 
 ## :busts_in_silhouette: Equipe
 <span id="equipe">
