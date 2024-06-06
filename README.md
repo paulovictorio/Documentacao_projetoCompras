@@ -18,9 +18,7 @@ Baseado em necessidades apontadas por funcionários, o usuário utilizará o sis
 
 Posteriormente, serão implementados formas de um usuário comum (como professores) realizar um pedido diretamente a um "usuário admin" (responsável de compras), tendo este que aprovar os pedidos e cadastrar novos produtos no banco de dados.
 
-Com base nesta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
-
-</span>
+A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
 :pushpin: Status do Projeto: **Não Concluído** 
 
@@ -32,18 +30,15 @@ Com base nesta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 03 | 17/06/2024 |  🧰Em Produção  |[ver relatório]|
 
 ## Protótipo e Documentação
-### Protótipo
+### 🏠 Protótipo 
 <span id="prototipo">
     Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
     O acesso ao protótipo pode ser acessado <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
-</span>
 
-### Documentação
-<span>
-A documentação deste projeto possui mais detalhes do planejamento e da arquitetura do software. Ela pode ser acessada <a href="">aqui</a>
-</span>
+### 📄 Documentação 
+A documentação deste projeto possui mais detalhes do planejamento e da arquitetura do software. Ela pode ser acessada [aqui](documentacao_compras_pi.pdf)
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas 
 <span id="tecnologias">
     <p align="center">
       <a href="https://skillicons.dev">
@@ -65,4 +60,9 @@ A documentação deste projeto possui mais detalhes do planejamento e da arquite
 | Dev Team      | Eduardo Brando Almeida                |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eduardo-Brando-Almeida)|
 
 → [Voltar ao topo](#topo)
-</span>
+
+
+## 🪪 Licença
+
+The MIT License (MIT) 2024
+
