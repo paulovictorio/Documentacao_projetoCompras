@@ -16,8 +16,6 @@ A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, O des
 
 Baseado em necessidades apontadas por funcionários, o usuário utilizará o sistema para armazenar dados que serão utilizados posteriormente em um novo pedido de compra, de forma que organize opções de compras e otimize tempo de pesquisa.
 
-Posteriormente, serão implementados formas de um usuário comum (como professores) realizar um pedido diretamente a um "usuário admin" (responsável de compras), tendo este que aprovar os pedidos e cadastrar novos produtos no banco de dados.
-
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
 :pushpin: Status do Projeto: **Não Concluído** 
@@ -33,7 +31,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 ### 🏠 Protótipo 
 <span id="prototipo">
     Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
-    O acesso ao protótipo pode ser acessado <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
+    O acesso ao protótipo pode ser feito <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
 
 ### 📄 Documentação 
 A documentação deste projeto possui mais detalhes do planejamento e da arquitetura do software. Ela pode ser acessada [aqui](documentacao_compras_pi.pdf)
