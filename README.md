@@ -14,4 +14,7 @@
 
 |    Função     |                  Nome                 |                          GitHub                              | 
 | :-----------: | :-----------------------------------: | :----------------------------------------------------------: |
-|               |                                       |                                                              |
+| Product Owner | Paulo César Ap. Q. V. Victório        |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/paulovictorio)|
+| Scrum Master  | Felipe Thiago da Silva                |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-Thiago)|
+| Dev Team      | Thiago Saldanha Diegoli               |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/thiago-diegoli)|
+| Dev Team      | Eduardo Brando Almeida                |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eduardo-Brando-Almeida)|
