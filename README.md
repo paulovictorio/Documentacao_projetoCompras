@@ -29,13 +29,15 @@ Os requisitos abrangidos por essa sprint são:
     
 ## :heavy_check_mark: Entregas
 
-<div align="center">
+
 
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente.
 
 
 Para avaliar a permanência do projeto nos requisitos e a validade das funções, foram realizados testes simuntâneos ao desenvolvimento, tal como diz a metodologia TDD (desenvolvimento orientado a testes). A construção seguiu conforme alguns dos requisitos funcionais já da primeira sprint, e podem ser observadas a seguir:
 
+<div align="center">
+    
 ### RF 04: Encontrar o produto desejado para realizar pedido
 Este requisito se trata da consulta do usuário ao produto que quiser, cadastrado no sistema através da BEC. Esse requisito possui variações, e pode ser acessado das seguintes formas:
 - **Funcionário Geral** pesquisa por um produto para compôr seu pedido.
