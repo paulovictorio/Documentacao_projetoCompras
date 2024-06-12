@@ -42,12 +42,12 @@ Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde 
 ### RF 01 e RF 02: Realizar cadastro e login de usuário
 
 Este requisito se trata do cadastro e login de usuários, apenas os funcionários gerais realizam o cadastro, como descrito no caso de uso. Ambos os usuários realizarão login, porém terão telas especificas, por exemplo: 
-- **Funcionário geral** tem uma página com a opção de realizar pesquisas com a web service da BEC, opção de quantidade e discrição do pedido
-- **Funcionário diretor de serviços administrativos** tem uma página com o histórico dos pedidos realizados e um filtro para realizar pesquisas especificas
+- **Funcionário geral** tem uma página com a opção de realizar pesquisas com a web service da BEC, opção de quantidade e discrição do pedido.
+- **Funcionário diretor de serviços administrativos** tem uma página com o histórico dos pedidos realizados e um filtro para realizar pesquisas especificas.
 
 ### RF 03: Pesquisa de produtos pela web service da BEC
 
-Este requisito se trata da pesquisa de produtos por uma web service conectada a bolsa eletrônica de compras, que retornara os produtos pesquisados e a natureza do produto em questão e sua id para adicioná-lo a um pedido
+Este requisito se trata da pesquisa de produtos por uma web service conectada a bolsa eletrônica de compras, que retornara os produtos pesquisados e a natureza do produto em questão e seu id para adicioná-lo a um pedido.
 
 
 <details>
@@ -57,7 +57,20 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 ">
 </details>
 
+→ [Voltar ao topo](#topo)
 
+<span id="metricas">
+    
+## :chart_with_upwards_trend: Métricas do time
+Para o melhor aproveitamento das habilidades de cada membro, o desenvolvimento foi dividido entre duas frentes: desenvolvimento front-end/back-end e protótipos/documentação, o time de prototipagem e documentação realizou o planejamento do projeto, prototipação do front end e documentação da sprint, enquanto o time de desenvolvimento realizou a programação do front-end, integração das funcionalidades, além da criação dos microsserviços necessários, integridade do código e desenvolvimento das funcionalidades do banco de dados.
+
+- O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados no sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo).
+
+<div align="center">
+![Burndown Chart]
+</div>
+
+## :link: Links úteis
 
 
 
