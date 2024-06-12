@@ -39,11 +39,25 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
 
-### RF 01: Realizar cadastro
+### RF 01 e RF 02: Realizar cadastro e login de usuário
 
-Este requisito se trata do cadastro de usuários, apenas os funcionários gerais realizam o cadastro 
+Este requisito se trata do cadastro e login de usuários, apenas os funcionários gerais realizam o cadastro, como descrito no caso de uso. Ambos os usuários realizarão login, porém terão telas especificas, por exemplo: 
+- **Funcionário geral** tem uma página com a opção de realizar pesquisas com a web service da BEC, opção de quantidade e discrição do pedido
+- **Funcionário diretor de serviços administrativos** tem uma página com o histórico dos pedidos realizados e um filtro para realizar pesquisas especificas
 
-### RF 02: Realizar login
+### RF 03: Pesquisa de produtos pela web service da BEC
+
+Este requisito se trata da pesquisa de produtos por uma web service conectada a bolsa eletrônica de compras, que retornara os produtos pesquisados e a natureza do produto em questão e sua id para adicioná-lo a um pedido
+
+
+<details>
+   <summary>Diagrama de classes</summary>
+   <h4>Diagrama de classes mapeado do frontend</h4>
+   <img src="https://user-images.githubusercontent.com/69374340/163506461-be837b99-d7ce-4c3c-86ff-c1d276fec529.png">
+</details>
+
+
+
 
 
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
