@@ -53,7 +53,7 @@ Este requisito está associado aos dois tipos de funcionário, e inclui a inser�
 - **Funcionário diretor de serviços administrativos** gerencia os pedidos realizados, atribuindo status de forma automática e justificativas a pedidos pendentes.
 - **Funcionário diretor de serviços administrativos** filtra por informações específicas de pedidos anteriores.
 
-## RF 09: Excluir pedido realizado
+### RF 09: Excluir pedido realizado
 Este requisito segue o requisito 09, mas aborda uma funcionalidade específica ao funcionário geral, permitindo a ele excluir um pedido que tenha sido preenchido erroneamente.
 
 </div>
