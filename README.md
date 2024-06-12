@@ -54,8 +54,7 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 <details>
    <summary>Diagrama de classes</summary>
    <h4>Diagrama de classes mapeado do frontend</h4>
-   <img src="<img width="414" alt="image" src="https://github.com/paulovictorio/Documentacao_projetoCompras/assets/127141305/4ed5254a-2fcb-447a-8a53-38bbe9af6015">
-">
+   ![images](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/127141305/4ed5254a-2fcb-447a-8a53-38bbe9af6015)
 </details>
 
 → [Voltar ao topo](#topo)
