@@ -37,6 +37,7 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 ![demo](./demo.gif)
 
+</div>
 Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
 
 ### RF 01 e RF 02: Realizar cadastro e login de usuário
