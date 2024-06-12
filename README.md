@@ -60,6 +60,7 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 → [Voltar ao topo](#topo)
 
 <span id="metricas">
+<div align="center">
     
 ## :chart_with_upwards_trend: Métricas do time
 Para o melhor aproveitamento das habilidades de cada membro, o desenvolvimento foi dividido entre duas frentes: desenvolvimento front-end/back-end e protótipos/documentação, o time de prototipagem e documentação realizou o planejamento do projeto, prototipação do front end e documentação da sprint, enquanto o time de desenvolvimento realizou a programação do front-end, integração das funcionalidades, além da criação dos microsserviços necessários, integridade do código e desenvolvimento das funcionalidades do banco de dados.
@@ -72,6 +73,7 @@ Para o melhor aproveitamento das habilidades de cada membro, o desenvolvimento f
 
 
 <span id="links">
+<div align="center">
 
 ## :link: Links úteis
 
