@@ -63,8 +63,9 @@ Este requisito segue o requisito 09, mas aborda uma funcionalidade específica a
 <details>
    <summary>Diagrama de classes</summary>
    <h4>Diagrama de classes mapeado do frontend</h4>
-   <img src="![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/78160698/de5618c8-1eaa-4d95-96b0-fe73053c7ea2)
-">
+    
+   ![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/78160698/de5618c8-1eaa-4d95-96b0-fe73053c7ea2)
+   
 </details>
 
 → [Voltar ao topo](#topo)
