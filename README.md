@@ -30,8 +30,20 @@ Os requisitos (tanto do funcionário de compras como do semestre) abrangidos por
 ## :heavy_check_mark: Entregas
 
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente.
+
 Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo, escrito utilizando Angular e com a integração das funcionalidades acordadas para a primeira sprint pode ser observado a seguir:
 
+<div align="center">
+
+![demo](./demo.gif)
+
+Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
+
+### RF 01: Realizar cadastro
+
+Este requisito se trata do cadastro de usuários, apenas os funcionários gerais realizam o cadastro 
+
+### RF 02: Realizar login
 
 
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
