@@ -75,4 +75,6 @@ Este requisito segue o requisito 09, mas aborda uma funcionalidade específica a
 
 ## :link: Links úteis
 
+→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
