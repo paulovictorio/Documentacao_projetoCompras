@@ -5,7 +5,6 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
@@ -63,19 +62,8 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 
 → [Voltar ao topo](#topo)
 <div align="center">
-<span id="metricas">
 </div>
     
-## :chart_with_upwards_trend: Métricas do time
-Para o melhor aproveitamento das habilidades de cada membro, o desenvolvimento foi dividido entre duas frentes: desenvolvimento front-end/back-end e protótipos/documentação, o time de prototipagem e documentação realizou o planejamento do projeto, prototipação do front end e documentação da sprint, enquanto o time de desenvolvimento realizou a programação do front-end, integração das funcionalidades, além da criação dos microsserviços necessários, integridade do código e desenvolvimento das funcionalidades do banco de dados.
-
-- O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados no sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo).
-
-<div align="center">
-![Burndown Chart]
-</div>
-
-
 <span id="links">
 
 ## :link: Links úteis
