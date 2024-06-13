@@ -43,17 +43,8 @@ Estes requisitos contemplam os passos finais da aplicação no ambiente do diret
 
 → [Voltar ao topo](#topo)
 <div align="center">
-<span id="metricas">
 </div>
     
-## :chart_with_upwards_trend: Métricas do time
-
-- O acompanhamento de atividades, de responsabilidade do Scrum Master, se encontra na imagem adiante, que contém o gráfico Burndown gerado pela equipe (onde o eixo X são os dias trabalhados no sprint e os valores do eixo Y representam as entregas e esforços realizados com o passar do tempo).
-
-
-<div align="center">
-![Burndown Chart]
-</div>
 
 <span id="links">
 
