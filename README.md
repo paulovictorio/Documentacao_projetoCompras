@@ -5,6 +5,7 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
