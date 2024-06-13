@@ -42,9 +42,7 @@ Estes requisitos contemplam os passos finais da aplicação no ambiente do diret
 
 → [Voltar ao topo](#topo)
 <div align="center">
-</div>
     
-
 <span id="links">
 
 ## :link: Links úteis
@@ -52,6 +50,7 @@ Estes requisitos contemplam os passos finais da aplicação no ambiente do diret
 →[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
+</div>
 
 
 
