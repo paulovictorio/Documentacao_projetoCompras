@@ -14,7 +14,7 @@ O desenvolvimento do site visa facilitar o trabalho do funcionário responsável
 
 ## :dart: Objetivos da Sprint
 
-Os requisitos (tanto do funcionário de compras como do semestre) abrangidos por essa sprint são:
+Os requisitos abrangidos por essa sprint são:
 - **RF 01:** Realizar cadastro
 - **RF 02:** Login do usuário
 - **RF 03:** Pesquisa de produtos pelo Web Service da BEC
@@ -68,6 +68,6 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 
 ## :link: Links úteis
 
-
+→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
