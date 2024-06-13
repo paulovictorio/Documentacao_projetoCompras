@@ -62,7 +62,7 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 
 → [Voltar ao topo](#topo)
 <div align="center">
-</div>
+
     
 <span id="links">
 
@@ -71,3 +71,4 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 →[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
+</div>
