@@ -14,7 +14,7 @@ Na última sprint o objetivo foi finalizar o sistema de status de pedidos no amb
 
 ## :dart: Objetivos da Sprint
 
-Os requisitos (tanto do funcionário de compras como do semestre) abrangidos por essa sprint são:
+Os requisitos abrangidos por essa sprint são:
 - **RF 10:** Alterar status de um pedido realizado
 - **RF 11:** Escrever descrição do cancelamento de um pedido
 - **RNF 21:** Status possui 2 estados além do padrão
@@ -49,7 +49,7 @@ Estes requisitos contemplam os passos finais da aplicação no ambiente do diret
 
 ## :link: Links úteis
 
-
+→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 →[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
 
