@@ -56,7 +56,8 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
    <summary>Diagrama de classes</summary>
    <h4>Diagrama de classes mapeado do frontend</h4>
     
-   ![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/127141305/0a36c00b-c91c-4b44-be69-257838bc5572)
+   ![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/78160698/16ba36aa-3361-4ae2-bb36-3c48d4ffdd10)
+
 
     
 </details>
