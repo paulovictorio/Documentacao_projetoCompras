@@ -31,7 +31,6 @@ Os requisitos abrangidos por essa sprint são:
 
 
 
-Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente.
 
 
 Para avaliar a permanência do projeto nos requisitos e a validade das funções, foram realizados testes simuntâneos ao desenvolvimento, tal como diz a metodologia TDD (desenvolvimento orientado a testes). A construção seguiu conforme alguns dos requisitos funcionais já da primeira sprint, e podem ser observadas a seguir:
