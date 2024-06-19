@@ -22,7 +22,7 @@ Baseado em necessidades apontadas por funcionários, o usuário utilizará o sis
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
 
-:pushpin: Status do Projeto: **Concluído** 
+:pushpin: Status do Projeto: **✔️ Concluído** 
 
 ### 🏁 Entregas de Sprints
 | Sprint | Previsão | Status | Histórico |
@@ -58,7 +58,7 @@ Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_c
 E [Documentação ihc](ihc_compras.pdf).
 
 > 🔗 **Links gerais** <br>
-> - Link do sistema funcional: [clique aqui para acessar](https://seu-projeto.vercel.app/api)
+> - Link do sistema funcional: [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app)
 > - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 
