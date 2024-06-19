@@ -26,9 +26,19 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 10 e RF 11: Alterar status de um pedido realizado e escrever descrição do cancelamento de um pedido
+### RF 10 : Alterar status de um pedido realizado
 
-Estes requisitos contemplam os passos finais da aplicação no ambiente do diretor de serviços administrativos, ele tem como objetivo criar um dado informativo para histórico e para feedback do segmento dos pedidos para os funcionários da instituição.
+Este requisito tem como objetivo criar um dado informativo para histórico e para feedback do segmento dos pedidos para os funcionários da instituição.
+
+**Funcionário diretor de serviços administrativos** pode alterar os status para manter o funcionário que realizou o pedido informado
+**Funcionário Geral** pode vizualizar a mudança para se informar do status de seu pedido
+
+### RF 11 : Escrever descrição do cancelamento de um pedido
+
+Este requisito se refere ao caso do funcionário diretor de serviços administrativos desejar cancelar um pedido, uma justificativa será preenchida para esclarecer possíveis dúvidas sobre o cancelamento do pedido
+
+**Funcionário diretor de serviços administrativos** escreve em detalhes o motivo de cancelamento de um pedido
+**Funcionário Geral** vizualiza a justificativa e se informa do motivo do cancelamento de seu pedido 
 
 </div>
 
