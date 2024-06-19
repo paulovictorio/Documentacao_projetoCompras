@@ -29,7 +29,10 @@ Os requisitos abrangidos por essa sprint são:
     
 ## :heavy_check_mark: Entregas
 
+<div align="center">
 
+![demo](./demo.gif)
+</div>
 
 
 
