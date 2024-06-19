@@ -3,10 +3,11 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlogs">Backlogs & User Stories</a>  |
-    <a href="#prototipo">Protótipo & Documentação</a>  |  
+    <a href="#prototipo">Protótipo & Documentação</a>  | 
+    <a href="#link">Links Uteis</a>  |
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>  |
-    <a href="#link">Link do Projeto</a>  | 
+     
     
 </p>
 
@@ -57,6 +58,7 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
 E [Documentação ihc](ihc_compras.pdf).
 
+<span id="link">
 > 🔗 **Links gerais** <br>
 > - Link do sistema funcional: [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app)
 > - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
@@ -88,11 +90,6 @@ E [Documentação ihc](ihc_compras.pdf).
 
 → [Voltar ao topo](#topo)
 
-<span id="link">
-
-## Link do Projeto
-    
-→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 ## 🪪 Licença
 
