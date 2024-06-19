@@ -18,14 +18,14 @@ Baseado em necessidades apontadas por funcionários, o usuário utilizará o sis
 
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
-:pushpin: Status do Projeto: **Não Concluído** 
+:pushpin: Status do Projeto: **Concluído** 
 
 ### 🏁 Entregas de Sprints
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
-| 03 | 17/06/2024 |  🧰Em Produção  |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
+| 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
 
 → [Voltar ao topo](#topo)
 <span id="backlogs">
@@ -49,7 +49,8 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 
 
 ### 📄 Documentação 
-A documentação deste projeto possui mais detalhes do planejamento e da arquitetura do software. Ela pode ser acessada [aqui](documentacao_compras_pi.pdf)
+As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. 
+Elas podem ser acessadas [aqui](documentacao_compras_pi.pdf)
 
 ## 🛠️ Tecnologias Utilizadas 
 <span id="tecnologias">
