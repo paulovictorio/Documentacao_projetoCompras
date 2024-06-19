@@ -61,14 +61,12 @@ Este requisito se trata da pesquisa de produtos por uma web service conectada a 
 </details>
 
 → [Voltar ao topo](#topo)
-<div align="center">
 
     
 <span id="links">
 
 ## :link: Links úteis
 
-→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
-
-→[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
-</div>
+- Repositório do projeto: [Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+- Site do projeto: [https://projeto-mvc-restful-frontend.vercel.app](https://projeto-mvc-restful-frontend.vercel.app) (usuário exemplo - email: `usuario@email.com`, senha: `senha123`)
+- [Voltar ao documento principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
