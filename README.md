@@ -58,7 +58,7 @@ Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_c
 E [Documentação ihc](ihc_compras.pdf).
 
 > 🔗 **Links gerais** <br>
-> - Link do sistema funcional: [clique aqui para acessar](projeto-mvc-restful-frontend.vercel.app)
+> - Link do sistema funcional: [clique aqui para acessar](https://seu-projeto.vercel.app/api)
 > - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 
