@@ -32,7 +32,23 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
 
+### :clapper: Apresentação Final
+Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+<details>
+   <summary>Diretor de Serviços Administrativos</summary>
+    <div align="center">
+        <img src="./interface_admin.gif">
+    </div>
+</details>
+<details>
+   <summary>Funcionários</summary>
+    <div align="center">
+          <img src="./interface_usuario.gif">
+    </div>
+</details>
+    
 → [Voltar ao topo](#topo)
+
 <span id="backlogs">
     
 ## 👷 Backlogs & User Stories
