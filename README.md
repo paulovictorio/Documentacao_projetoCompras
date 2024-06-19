@@ -20,6 +20,11 @@ Os requisitos abrangidos por essa sprint são:
 - **RNF 21:** Status possui 2 estados além do padrão
 - **RNF 22:** O sistema tem que estar ativo a todo o momento
 
+<div align="center">
+
+![demo](./demo.gif)
+</div>
+
 <span id="entregas">
 
 ## :heavy_check_mark: Entregas
