@@ -90,7 +90,6 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 </p>
 </span>
 
-→ [Voltar ao topo](#topo)
 
 ## :busts_in_silhouette: Equipe
 
