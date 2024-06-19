@@ -57,6 +57,11 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
 E [Documentação ihc](ihc_compras.pdf).
 
+> 🔗 **Links gerais** <br>
+> - Link do sistema funcional: [clique aqui para acessar](projeto-mvc-restful-frontend.vercel.app)
+> - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+
+
 ## 🛠️ Tecnologias Utilizadas 
 <span id="tecnologias">
     <p align="center">
