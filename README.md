@@ -70,11 +70,14 @@ Este requisito segue o requisito 09, mas aborda uma funcionalidade específica a
 
 → [Voltar ao topo](#topo)
 <span id="links">
-<div align="center">
 
 
 ## :link: Links úteis
 
-→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+<span id="links">
 
-→[Voltar ao principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+- Site do projeto: [https://projeto-mvc-restful-frontend.vercel.app](https://projeto-mvc-restful-frontend.vercel.app) (usuário exemplo - email: `usuario@email.com`, senha: `senha123`)
+- Voltar ao [documento principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
