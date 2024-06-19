@@ -56,7 +56,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 ### 📄 Documentação 
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. 
 Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
-E [Documentação ihc](ihc_compras.pdf).
+E [Documentação ihc](ihc_compras.pdf). <br>
 
 <span id="link">
     
