@@ -2,11 +2,13 @@
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs & User Stories</a>  |  
+    <a href="#backlogs">Backlogs & User Stories</a>  |
+    <a href="#link">Link do Projeto</a>  | 
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
 </p>
+
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre
@@ -18,6 +20,7 @@ Baseado em necessidades apontadas por funcionários, o usuário utilizará o sis
 
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
+
 :pushpin: Status do Projeto: **Concluído** 
 
 ### 🏁 Entregas de Sprints
@@ -26,6 +29,11 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
+
+<span id="link">
+### Link do Projeto
+    
+→[Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 
 → [Voltar ao topo](#topo)
 <span id="backlogs">
@@ -65,6 +73,8 @@ E [Documentação ihc](ihc_compras.pdf).
 → [Voltar ao topo](#topo)
 
 ## :busts_in_silhouette: Equipe
+
+
 <span id="equipe">
     
 
