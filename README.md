@@ -3,9 +3,11 @@
 <h1 align="center">Sprint 3: 03/06/2024 a 17/06/2024</h1>
 
 <p align="center">
+    <a href="https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md">Sprint 2</a>
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-04/README.md">Sprint 4</a>
 </p>
 
 Na última sprint o objetivo foi finalizar o sistema de status de pedidos no ambiente do diretor de serviços administrativos, permitindo sua utilização e usabilidade, atendendo os pedidos do cliente.
@@ -63,4 +65,4 @@ Este requisito se refere ao caso do funcionário diretor de serviços administra
 
 - Repositório do projeto: [Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 - Site do projeto: [https://projeto-mvc-restful-frontend.vercel.app](https://projeto-mvc-restful-frontend.vercel.app) (usuário exemplo - email: `usuario@email.com`, senha: `senha123`)
-- Voltar ao [documento principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
