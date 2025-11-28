@@ -3,9 +3,11 @@
 <h1 align="center">Sprint 2: 20/05/2024 a 03/06/2024</h1>
 
 <p align="center">
+    <a href="https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md">Sprint 1</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md">Sprint 3</a>
 </p>
 
 Com a segunda Sprint, o projeto teve um aprofundamento maior no desenvolvimento, visto que todos os requisitos estavam estabelecidos e, neste momento, partem para a construção mais específica de funcionalidades envolvendo a lógica de negócio a ser atingida. Foram implementadas funções de listagem dos produtos (incluindo descrição e escolha deles), realização do pedido em si, definição de um histórico a ser visto tal como funções comuns a ele, como edição e exclusão de dados.
@@ -83,4 +85,4 @@ Este requisito segue o requisito 09, mas aborda uma funcionalidade específica a
 
 - Repositório do projeto: [Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
 - Site do projeto: [https://projeto-mvc-restful-frontend.vercel.app](https://projeto-mvc-restful-frontend.vercel.app) (usuário exemplo - email: `usuario@email.com`, senha: `senha123`)
-- Voltar ao [documento principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
