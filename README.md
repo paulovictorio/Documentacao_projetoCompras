@@ -3,7 +3,7 @@
 <h1 align="center">Sprint 3: 03/06/2024 a 17/06/2024</h1>
 
 <p align="center">
-    <a href="https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md">Sprint 2</a>
+    <a href="https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md">Sprint 2</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
